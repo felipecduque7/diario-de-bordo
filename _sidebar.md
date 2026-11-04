@@ -6,6 +6,7 @@
 - Minhas entradas
 - [Primeiro Envio](blog/2026-09-23-primeiro-envio.md)
 - [Segundo Envio](blog/2026-10-07-segundo-envio.md)
+- [Terceiro Envio](blog/2026-11-04-terceiro-envio.md)
 - [Exemplo — Formação de equipe](blog/2027-03-10-formacao-de-equipe-exemplo.md)
 
 <!--
